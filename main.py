@@ -12,6 +12,7 @@ def multiply(a, b):
     return a * b
 
 def print_hi(name):
+    print("Welcome")
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print("Hello World")
