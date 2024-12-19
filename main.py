@@ -6,8 +6,7 @@
 def add(a, b):
     return a+b
 
-def multiply(a, b):
-    return a*b
+
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
